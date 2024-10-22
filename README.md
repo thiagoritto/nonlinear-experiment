@@ -1,4 +1,4 @@
-# nonlinear-experiment
+# Nonlinear Experiment Data
 
 Experimental data obtained from a nonlinear oscillator. Please cite:
 Reinforcement learning and approximate Bayesian computation (RL-ABC) for model selection and parameter calibration of time-varying systems, 
